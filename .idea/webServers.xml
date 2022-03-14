@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d860373e-94c0-4839-be49-281fa45b6d53" name="paddle">
+        <fileTransfer accessType="SFTP" host="120.210.89.161" port="22111" sshConfigId="1f100402-aaab-4c28-82f1-d06e23368cef" sshConfig="ustc@120.210.89.161:22111 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

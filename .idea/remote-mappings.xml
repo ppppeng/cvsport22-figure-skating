@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://lzp@120.210.89.161:22110/home/lzp/anaconda3/envs/paddle/bin/python" />
+        <remote-mappings server-id="python@sftp://ustc@120.210.89.161:22111/home/ustc/miniconda3/envs/paddle/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>
