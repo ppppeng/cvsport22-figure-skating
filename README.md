@@ -1,7 +1,6 @@
 # Fine-Grained Skeleton-Based Human Action Recognition for Figure Skating
 
 ![alt demo](demo.png)
-![alt demo](model_inference2.png)![alt demo](demo.png)
 
 ## requirements
 * paddlevideo>=2.2.0
