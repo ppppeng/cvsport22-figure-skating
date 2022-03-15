@@ -14,6 +14,8 @@
 
 Run the following command to install the necessary environment
 ```
+conda create -n cvsport python=3.6
+conda activate cvsport
 python -m pip install paddlepaddle-gpu==2.2.0.post112 -f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
 pip install -r requirements.txt
 ```
